@@ -9,3 +9,7 @@ This repository demonstrates how to train an NLP model using transformers and da
 - Datasets 1.15.1
 - Tokenizers 0.10.3
 - AWS Sagemaker
+
+### Credits
+
+Credits to https://github.com/marshmellow77 on the sagamaker DLC guidance.
